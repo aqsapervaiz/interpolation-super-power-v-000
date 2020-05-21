@@ -6,5 +6,5 @@ def display_rainbow (colors)
 end
 
 def display_rainbow (colors)
-  puts "R: #{0}, O: #{1}, Y: #{2}, G: #{3}, B: #{4}, I: #{5}, V: #{6}"
+  puts "R: #{1}, O: #{2}, Y: #{3}, G: #{4}, B: #{5}, I: #{6}, V: #{7}"
 end
